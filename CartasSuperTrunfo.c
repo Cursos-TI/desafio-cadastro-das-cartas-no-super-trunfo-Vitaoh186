@@ -108,6 +108,8 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n", pontosTuristicos2);
     printf("--------------------------------\n");
 
+
+    // Realiza a comparação dos atributos e indica o vencedor.
 if(populacao1 > populacao2) {
    printf("População: A carta 01 é a vencedora\n");}
 else{
