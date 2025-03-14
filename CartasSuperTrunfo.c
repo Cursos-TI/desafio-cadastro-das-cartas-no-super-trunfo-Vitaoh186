@@ -108,5 +108,32 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n", pontosTuristicos2);
     printf("--------------------------------\n");
 
+if(populacao1 > populacao2) {
+   printf("População: A carta 01 é a vencedora\n");}
+else{
+   printf("População: A carta 02 é a vencedora\n");}
+
+if(area1 > area2) {
+    printf("Area: A carta 01 é a vencedora\n");}
+else{
+    printf("Area: A carta 02 é a vencedora\n");}
+
+if(pib1 > pib2) {
+      printf("PIB : A carta 01 é a vencedora\n");}
+else{
+      printf("PIB: A carta 02 é a vencedora\n");}
+
+if(pontosTuristicos1 > pontosTuristicos2) {
+        printf("Pontos Turisticos: A carta 01 é a vencedora\n");}
+else{
+        printf("Pontos Turisticos: A carta 02 é a vencedora\n");}
+     
+
+
+
+
+
+
+
     return 0;
 }
